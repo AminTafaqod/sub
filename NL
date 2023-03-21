@@ -8,4 +8,4 @@ vmess://eyJhZGQiOiIxMDQuMTYuMjA5LjEyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 
 vmess://eyJhZGQiOiIxNDEuMTkzLjIxMy4zMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibjUuaXJhbmlhbmNwLmF1dG9zIiwiaWQiOiI3MmY3NmMzNi0zZTNjLTQ1YjMtYTYxZi1kOGYwMTczNDU5NTgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvP2VkXHUwMDNkMjA0OCIsInBvcnQiOiIyMDUzIiwicHMiOiJOTCAyMDUzIEhhcHB5IE5vcnV6Iiwic2N5IjoiYXV0byIsInNuaSI6ImlyYW5pYW5jcC5hdXRvcyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
-vless://3365caca-abaa-47ba-ed1d-7e81c753fabe@159.246.55.42:2083?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=n6.iraniancp.autos&type=ws&sni=iraniancp.autos#NL+2083+Happy+Noruz
+vless://3365caca-abaa-47ba-ed1d-7e81c753fabe@45.85.119.70:2083?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=n6.iraniancp.autos&type=ws&sni=iraniancp.autos#NL+2083+Happy+Noruz
